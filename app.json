@@ -2,6 +2,5 @@
   "name": "chatbot line raja brawijaya",
   "description": "chatbot line raja brawijaya",
   "repository": "https://github.com/derifato/botline-raja",
-  "logo": "http://xvir.github.io/img/apiai.png",
-  "keywords": ["chatbot line"]
+ "keywords": ["line bot", "messaging api"]
 }
